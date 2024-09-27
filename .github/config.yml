@@ -1,27 +1,20 @@
-# Configuration for request-info
-# https://github.com/behaviorbot/request-info
+# Behaviorbot config. See https://github.com/behaviorbot/ for more information.
+# Note: Please Don't edit this file directly.
+# Edit https://github.com/pages-themes/maintenance-scripts instead.
 
-# *OPTIONAL* Comment to reply with
-requestInfoReplyComment: >
-  We would appreciate it if you could provide us with more info about this issue/pr!
+# Configuration for update-docs - https://github.com/behaviorbot/update-docs
+updateDocsComment: "Thanks for the pull request! If you are making any changes to the user-facing functionality, please be sure to update the documentation in the `README` or `docs/` folder alongside your change. :heart:"
 
-# *OPTIONAL* default titles to check against for lack of descriptiveness (MUST BE ALL LOWERCASE)
-requestInfoDefaultTitles:
-  - update readme.md
-  - updates
+# Configuration for request-info - https://github.com/behaviorbot/request-info
+requestInfoReplyComment: Thanks for this. Do you mind providing a bit more information about what problem you're trying to solve?
+requestInfoLabelToAdd: more-information-needed
 
-# *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
-requestInfoLabelToAdd: need-more-info
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+#newIssueWelcomeComment: >
+#  Welcome!
 
-# *OPTIONAL* Require Pull Requests to contain more information than what is provided in the PR template (Will fail if the pull request's body is equal to the provided template)
-checkPullRequestTemplate: true
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+newPRWelcomeComment: Welcome! Congrats on your first pull request to the Minimal theme. If you haven't already, please be sure to check out [the contributing guidelines](https://github.com/pages-themes/minimal/blob/master/docs/CONTRIBUTING.md).
 
-# *OPTIONAL* Only warn about insufficient information on these events type (Keys must be lowercase. Valid values are 'issue' and 'pullRequest')
-requestInfoOn:
-  pullRequest: true
-  issue: true
-
-# *OPTIONAL* Add a list of people whose Issues/PRs will not be commented on (keys must be GitHub usernames)
-requestInfoUserstoExclude:
-  - sylhare
-  - # the other users you wanna add here
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+firstPRMergeComment: "Congrats on getting your first pull request to the Minimal theme merged! Without amazing humans like you submitting pull requests, we couldn’t run this project. You rock! :tada:<br /><br />If you're interested in tackling another bug or feature, take a look at [the open issues](https://github.com/pages-themes/minimal/issues), especially those [labeled `help wanted`](https://github.com/pages-themes/minimal/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)."

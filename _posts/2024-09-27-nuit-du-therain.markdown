@@ -8,12 +8,12 @@ Retrouvez les parcours de la randonnée nocturne du samedi 5 octobre 2024.
 
 ## VTT
 
-- 15 km : [lien](https://github.com/veloclubcirois/veloclubcirois.github.io/blob/541429873c9bde4401c40139a4d2dcb5634c290f/gpx/vtt_15km.gpx)
-- 30 km : [lien](https://github.com/veloclubcirois/veloclubcirois.github.io/blob/541429873c9bde4401c40139a4d2dcb5634c290f/gpx/vtt_30km.gpx).
+- 15 km : [lien](https://drive.google.com/uc?export=download&id=1qxHj3ehgHD0Tgb_OjWUvJwix2o0Ck2C3)
+- 30 km : [lien](https://drive.google.com/uc?export=download&id=1xF0D7lzCIvMRUjXbPsv4jg63FM--XJYZ)
 
 ## Marche
 
-- 5 km : [lien](https://github.com/veloclubcirois/veloclubcirois.github.io/blob/541429873c9bde4401c40139a4d2dcb5634c290f/gpx/marche_5km.gpx)
-- 10 km : [lien](https://github.com/veloclubcirois/veloclubcirois.github.io/blob/541429873c9bde4401c40139a4d2dcb5634c290f/gpx/marche_10km.gpx)
+- 5 km : [lien](https://drive.google.com/uc?export=download&id=1Xkbov9HXSpRQobSGuKcOO4kgPy_27gh3)
+- 10 km : [lien](https://drive.google.com/uc?export=download&id=1mi0xICxURa3-_ab3HzfVe1VVFbjsVUwd)
 
 **RAPPEL** : le port du casque est obligatoire en VTT. L'éclairage ainsi que le gilet réfléchissant sont obligatoires pour tous. Un contrôle sera effectué pour autoriser le départ.

@@ -40,8 +40,10 @@ navigation_header:
   url: /
 - title: A propos
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Contact
+  url: /contact/
+- title: Organisations
+  url: /organisations/
 
 # Footer nav
 navigation_footer:

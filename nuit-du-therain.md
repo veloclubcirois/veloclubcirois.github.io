@@ -1,7 +1,9 @@
 ---
+layout: page
 title:  "Nuit du Thérain 2024"
 date:   2024-09-27 23:19:31 +0200
 categories: nocturne rando vtt marche
+permalink: /organisations/nuit-du-therain
 ---
 
 ![Affiche Nuit du Thérain 2024!](/assets/img/Nuit_du_Therain_2024.png)

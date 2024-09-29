@@ -1,11 +1,12 @@
 ---
-layout: post
+# layout: post
 title:  "Nuit du Thérain 2024"
 date:   2024-09-27 23:19:31 +0200
 categories: nocturne rando vtt marche
+feature_image: "https://picsum.photos/2560/600?image=733"
 ---
 
-![Affiche Nuit du Thérain 2024!](/img/Nuit_du_Therain_2024.png)
+![Affiche Nuit du Thérain 2024!](/assets/img/Nuit_du_Therain_2024.png)
 
 Retrouvez les parcours de la randonnée nocturne du samedi 5 octobre 2024.
 

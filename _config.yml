@@ -21,9 +21,11 @@
 title: Vélo Club Cirois
 email: veloclucirois@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Vélo Club Cirois, le club de vélo de Cires-lès-Mello (60)
+  Retrouvez toutes les informations sur nos activités, sorties et événements.
+  Rejoignez-nous pour partager votre passion du vélo !
+  Que vous soyez débutant ou cycliste expérimenté, nous avons une place pour vous !
+  Venez pédaler avec nous et découvrir de nouveaux horizons à vélo !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  veloclubcirois

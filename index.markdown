@@ -5,21 +5,12 @@
 layout: default
 ---
 
+<h1>Actualités</h1>
 <p style="text-align: center">
-<img src="images/logo_vcc.png" alt="Logo du club" width="200" />
+🚴‍♂️ Rejoignez l'aventure nocturne 🚴‍♀️<br>
+<a href="https://inscriptions.ufolep.org/10e-nuit-du-therain-2025/">Lien pour les inscriptions en ligne</a>
 <br>
-🚴‍♂️ Rejoignez notre club de VTT 🚴‍♀️<br>
-Que vous soyez VTT musculaire ou VTT VAE, vous êtes les bienvenu(e)s !<br>
-Vous aimez la nature, l’adrénaline et les sensations fortes ? Notre club de VTT est fait pour vous ! <br>
-Que vous soyez débutant(e) ou expert(e), nous avons des parcours adaptés à tous les niveaux.<br>
+<img src="images/Nuit_du_Therain_2025.png" alt="Nuit du Thérain 2025" width="400" />
 <br>
-🌲 Randonnées en pleine nature
-<br>
-💪 Entraînements pour tous les niveaux
-<br>
-🤝 Ambiance conviviale et passion partagée<br>
-<br>
-N’attendez plus, rejoignez notre communauté de passionnés de vélo, sur tous les terrains, et dépassez vos limites ensemble !<br>
-<br>
-Club affilié UFOLEP
+
 </p>

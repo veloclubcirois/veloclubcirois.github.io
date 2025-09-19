@@ -28,7 +28,8 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
 

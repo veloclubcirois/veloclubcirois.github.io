@@ -52,15 +52,15 @@
           <p>
           {% for page in site.pages %}
             {% if page.title and page.nav_exclude != true and page.url != "/" and page.url != "/404.html" %}  
-          <li>
-                <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+            <li>
+                <h3><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h3>
             </li>
             {% endif %}
           {% endfor %}
 
           {% for post in site.posts %}
             <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
             </li>
           {% endfor %}
         </p>

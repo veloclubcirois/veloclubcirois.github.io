@@ -256,11 +256,11 @@ body { font-family: 'Helvetica Neue', Helvetica, Arial, serif; font-size: 15px; 
 
 p { margin-top: 0; }
 
-a { color: #2879d0; }
+a { color: #000000; }
 
-a:hover { color: #2268b2; }
+a:hover { color: #ff0000; }
 
-header { padding-top: 40px; padding-bottom: 40px; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x; border-bottom: solid 1px #275da1; }
+header { padding-top: 40px; padding-bottom: 40px; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; background: black url(../images/header-bg.jpg) 0 0 repeat-x; border-bottom: solid 1px black; }
 
 header h1 { width: 540px; margin-top: 0; margin-bottom: 0.2em; font-size: 72px; font-weight: normal; line-height: 1; color: #fff; letter-spacing: -1px; }
 
@@ -294,7 +294,7 @@ code { padding: 0 3px; background-color: #f2f8fc; border: solid 1px #dbe7f3; }
 
 pre { padding: 20px; overflow: auto; text-shadow: none; background: #fff; border: solid 1px #f2f2f2; }
 
-pre code { padding: 0; color: #2879d0; background-color: #fff; border: none; }
+pre code { padding: 0; color: black; background-color: #fff; border: none; }
 
 ul, ol, dl { margin-bottom: 20px; }
 
@@ -380,7 +380,7 @@ footer a:hover { color: #444; }
   header h1, header h2 { width: 100%; }
   header h1 { font-size: 48px; }
   header h2 { font-size: 24px; }
-  header a.button { position: relative; display: inline-block; width: auto; height: auto; padding: 5px 10px; margin-top: 15px; font-size: 13px; line-height: 1; color: #2879d0; text-align: center; background-color: #9ddcff; background-image: none; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+  header a.button { position: relative; display: inline-block; width: auto; height: auto; padding: 5px 10px; margin-top: 15px; font-size: 13px; line-height: 1; color: black; text-align: center; background-color: #9ddcff; background-image: none; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
   header a.button small { display: inline; font-size: 13px; }
   #main-content, aside#sidebar { float: none; width: 100% !important; }
   aside#sidebar { min-height: 0; padding: 20px 0; margin-top: 20px; background-image: none; border-top: solid 1px #ddd; }

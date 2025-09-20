@@ -21,7 +21,7 @@
 title: Vélo Club Cirois
 email: veloclubcirois@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  le club de vélo de Cires-lès-Mello (60660)
+  Club de vélo à Cires-lès-Mello (60660)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  veloclubcirois

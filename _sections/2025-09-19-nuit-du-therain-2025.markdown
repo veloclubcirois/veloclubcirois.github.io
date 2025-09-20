@@ -3,6 +3,7 @@ layout: default
 title:  "Nuit du Thérain 2025"
 date:   2025-09-19 22:00:47 +0200
 categories: randonnee nocturne vtt marche
+order: 2
 ---
 <h1>10e Nuit du Thérain</h1>
 Vivez une expérience unique sous les étoiles ! ⭐

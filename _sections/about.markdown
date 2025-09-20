@@ -4,6 +4,7 @@
 
 layout: default
 title: Qui sommes nous ?
+order: 3
 ---
 
 <p style="text-align: center">

@@ -5,6 +5,6 @@ permalink: /about/contact/
 order: 5
 ---
 
-Mail: veloclubcirois@gmail.com
+Mail: [Contactez-nous](mailto:contact@veloclubcirois.fr)
 
-Facebook: veloclubcirois
+Facebook: [Suivez-nous sur Facebook](https://www.facebook.com/veloclubcirois)

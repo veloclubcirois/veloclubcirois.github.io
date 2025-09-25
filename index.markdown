@@ -13,6 +13,8 @@ layout: default
     <li><strong>Marche 10 km (150m D+) </strong>: <br> 
         <a href="/assets/gpx/Nocturne_2025_marche_10km.gpx">Lien fichier GPX</a><br>
         <a href="https://connect.garmin.com/modern/course/405977191">Lien Garmin</a><br>
+        <div class="strava-embed-placeholder" data-embed-type="route" data-embed-id="3406416291454105822" data-full-width="true" data-style="dark" data-map-hash="10.98/49.2766/2.3643" data-club-id="699440" data-from-embed="true"></div><script src="https://strava-embeds.com/embed.js"></script>
+        <iframe src="https://www.komoot.com/fr-fr/tour/2599305725/embed?share_token=atHHUG3q1eXEnm1kNpxa0Ww3Dp9DaWqjbOtcf04kOrXSm6rHqf&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe><br>
         <img src="/assets/images/nuit_du_therain_2026/marche_10km_2026.png" width="400"/>    
     </li>
     <li><strong>VTT 17 km (190m D+): </strong><br>

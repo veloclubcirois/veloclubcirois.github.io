@@ -22,11 +22,11 @@ layout: default
 
 <div id="garmin">
 
-<iframe src="https://connect.garmin.com/modern/course/embed/405977444" width="100%" height="500" title='Intégration du parcours' frameborder="0"></iframe>
+<a href="https://connect.garmin.com/modern/course/405977191">Marche 10 km</a>
 <br>
-<iframe src="https://connect.garmin.com/modern/course/embed/405977444" width="100%" height="500" title='Intégration du parcours' frameborder="0"></iframe>
+<a href="https://connect.garmin.com/modern/course/405977444">VTT 17 km</a>
 <br>
-<iframe src="https://connect.garmin.com/modern/course/embed/405977535" width="100%" height="500" title='Intégration du parcours' frameborder="0"></iframe>
+<a href="https://connect.garmin.com/modern/course/405977535">VTT 30 km</a>
 <br>
 </div>
 <br>

@@ -7,6 +7,11 @@ categories: randonnee nocturne vtt marche
 <h1>10e Nuit du Thérain</h1>
 Vivez une expérience unique sous les étoiles ! ⭐
 
+🚴‍♂️ Rejoignez l'aventure nocturne 🚴‍♀️<br>
+<a href="https://inscriptions.ufolep.org/10e-nuit-du-therain-2025/">Lien pour les inscriptions en ligne</a>
+<br>
+<img src="/images/Nuit_du_Therain_2025.png" alt="Nuit du Thérain 2025" width="400" />
+
 Samedi 27 septembre 2025
 
 Départ groupé à 20h00 devant la gare de Cires-lès-Mello (60)

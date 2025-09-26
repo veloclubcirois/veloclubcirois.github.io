@@ -9,6 +9,8 @@ layout: default
 
 <div style="text-align: center;">
 <br>
+<strong><div style="color: red;">Attention: les traces peuvent être modifiées le jour même. Dernière mise à jour : jeudi 25/09</div></strong>
+<br>
 <strong>Choisir son application :</strong> <br>
 <a href="#strava"><img src="/assets/images/strava.png" alt="STRAVA" /></a><br>
 <a href="#garmin"><img src="/assets/images/garmin.png" alt="GARMIN" /></a><br>

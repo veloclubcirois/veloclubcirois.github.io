@@ -5,11 +5,11 @@
 layout: default
 ---
 <div id="top" />
-<h1>Parcours Nuit du Thérain 2025</h1>
+<h1>Parcours René Gérard 2026</h1>
 
 <div style="text-align: center;">
 <br>
-<strong><div style="color: red;">Attention: les traces peuvent être modifiées le jour même. Dernière mise à jour : jeudi 25/09</div></strong>
+<strong><div style="color: red;">Attention: les traces peuvent être modifiées la veille. Dernière mise à jour : vendredi 05/06/2026</div></strong>
 <br>
 <strong>Choisir son application :</strong> <br>
 <a href="#strava"><img src="/assets/images/strava.png" alt="STRAVA" /></a><br>
@@ -51,9 +51,12 @@ Lien => <a href="https://connect.garmin.com/modern/course/405977535">VTT 30 km</
 <div id="komoot">
 <img src="/assets/images/komoot.png" alt="KOMOOT" /><br>
 
-<iframe src="https://www.komoot.com/fr-fr/tour/2599338692/embed?share_token=a4wVeVuCxjYiNls4u4xVfQmYUgBq3KFuAXwdRf576zM815lSYD&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
-<iframe src="https://www.komoot.com/fr-fr/tour/2599338298/embed?share_token=aWVhvsow91rGSq3KF7lGQ1IopSSnRFV0QW0byZX3WB6NapwBbk&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
-<iframe src="https://www.komoot.com/fr-fr/tour/2599305725/embed?share_token=atHHUG3q1eXEnm1kNpxa0Ww3Dp9DaWqjbOtcf04kOrXSm6rHqf&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/3014764004/embed?share_token=a1MPGmP68Wv35naxQp09gF5kV8HcVPaNeH6jjIq0br1LUIiDFY&amp;hl=fr&amp;layout=compact" width="100%" height="260" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/3014774096/embed?share_token=a259j94NbGGvs1reRte9Om5V3wqiq0zeiJIilOydmiEI0ValYh&amp;hl=fr&amp;layout=compact" width="100%" height="260" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/3014777642/embed?share_token=ahuYn0GEqG51tPb3ILs9QEtCRyoDVFWmVGDlfqnRfFKLk3F4oO&amp;hl=fr&amp;layout=compact" width="100%" height="260" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/3014779246/embed?share_token=aq6xT3sOo1re6y6sAurrL0TaUjY7pFeq2Phw6WmQ4XqhSXqZhb&amp;hl=fr&amp;layout=compact" width="100%" height="260" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/3014780660/embed?share_token=aCiIjr890TqExG3PmiR1zQgnbTACGPc9VqkWDfJbKLwcWbmTM2&amp;hl=fr&amp;layout=compact" width="100%" height="260" frameborder="0" scrolling="no"></iframe>
+
 <br>
 </div>
 <br>

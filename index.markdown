@@ -11,42 +11,7 @@ layout: default
 <br>
 <strong><div style="color: red;">Attention: les traces peuvent être modifiées la veille. Dernière mise à jour : vendredi 05/06/2026</div></strong>
 <br>
-<strong>Choisir son application :</strong> <br>
-<a href="#strava"><img src="/assets/images/strava.png" alt="STRAVA" /></a><br>
-<a href="#garmin"><img src="/assets/images/garmin.png" alt="GARMIN" /></a><br>
-<a href="#komoot"><img src="/assets/images/komoot.png" alt="KOMOOT" /></a><br>
-<a href="#openrunner"><img src="/assets/images/openrunner.png" alt="OpenRunner" width="25%" height="25%"/></a><br>
-<a href="#gpx">Fichiers GPX</a>
-</div>
-<br>
-<div id="strava">
 
-<div class="strava-embed-placeholder" data-embed-type="route" data-embed-id="3406418378522881246" data-full-width="true" data-style="dark" data-map-hash="11.93/49.28578/2.3836" data-club-id="699440" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
-
-<div class="strava-embed-placeholder" data-embed-type="route" data-embed-id="3406418019148015416" data-full-width="true" data-style="dark" data-map-hash="11.73/49.2872/2.3931" data-club-id="699440" data-from-embed="true"></div><script src="https://strava-embeds.com/embed.js"></script>
-
-<div class="strava-embed-placeholder" data-embed-type="route" data-embed-id="3406416291454105822" data-full-width="true" data-style="dark" data-map-hash="10.98/49.2766/2.3643" data-club-id="699440" data-from-embed="true"></div><script src="https://strava-embeds.com/embed.js"></script>
-
-</div>
-<br>
-<a href="#top">Retour en haut</a>
-
-<hr>
-
-<div id="garmin">
-<img src="/assets/images/garmin.png" alt="GARMIN" /><br>
-
-Lien => <a href="https://connect.garmin.com/modern/course/405977191">Marche 10 km</a>
-<br>
-Lien => <a href="https://connect.garmin.com/modern/course/405977444">VTT 17 km</a>
-<br>
-Lien => <a href="https://connect.garmin.com/modern/course/405977535">VTT 30 km</a>
-<br>
-</div>
-<br>
-<a href="#top">Retour en haut</a>
-
-<hr>
 
 <div id="komoot">
 <img src="/assets/images/komoot.png" alt="KOMOOT" /><br>
@@ -61,16 +26,6 @@ Lien => <a href="https://connect.garmin.com/modern/course/405977535">VTT 30 km</
 </div>
 <br>
 <a href="#top">Retour en haut</a>
-<hr>
-<div id="openrunner">
-<img src="/assets/images/openrunner.png" alt="OPENRUNNER" /><br>
-<a href="https://www.openrunner.com/route-details/22529469">Marche 10 km</a><br>
-<a href="https://www.openrunner.com/route-details/22529472">VTT 17 km</a><br>
-<a href="https://www.openrunner.com/route-details/22529473">VTT 30 km</a><br>
-</div>
-<br>
-<a href="#top">Retour en haut</a>
-<br>
 <hr>
 <div id="gpx">
 <h2>Fichiers GPX</h2>

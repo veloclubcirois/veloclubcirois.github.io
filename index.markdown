@@ -74,11 +74,15 @@ Lien => <a href="https://connect.garmin.com/modern/course/405977535">VTT 30 km</
 <hr>
 <div id="gpx">
 <h2>Fichiers GPX</h2>
-<a href="/assets/gpx/Nocturne_2025_marche_10km.gpx">Marche 10 km</a>
+<a href="/assets/gpx/rene_gerard_2026_marche_10km.gpx">Marche 10 km</a>
 <br>
-<a href="/assets/gpx/Nocturne_2025_VTT_17km.gpx">VTT 17 km</a>
+<a href="/assets/gpx/rene_gerard_2026_VTT_15km.gpx">VTT 15 km</a>
 <br>
-<a href="/assets/gpx/Nocturne_2025_VTT_30km.gpx">VTT 30 km</a>
+<a href="/assets/gpx/rene_gerard_2026_VTT_28km.gpx">VTT 28 km</a>
+<br>
+<a href="/assets/gpx/rene_gerard_2026_VTT_48km.gpx">VTT 48 km</a>
+<br>
+<a href="/assets/gpx/rene_gerard_2026_VTT_63km.gpx">VTT 63 km</a>
 <br>
 </div>
 <br>

@@ -1,0 +1,24 @@
+---
+---
+
+// @import "jekyll-theme-leap-day";
+
+header {
+
+  background: #a50000;
+
+  h1 {
+    font-family: sans-serif;
+    color: #fff200;
+  }
+
+  p {
+    color: #d8d8d8;
+    text-shadow:rgba(#000, 0.2) 0 1px 0;
+    font-size: 18px;
+    margin: 0px;
+  }
+}
+
+// @import "{{ site.theme }}";
+

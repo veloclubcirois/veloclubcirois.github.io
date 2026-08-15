@@ -21,19 +21,16 @@
 title: Vélo Club Cirois
 email: veloclubcirois@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Club de vélo à Cires-lès-Mello (60660)
-baseurl: "" # the subpath of your site, e.g. /blog
+  Vélo Club Cirois est un club de cyclisme situé à Cires-lès-Mello, dans l'Oise. Nous organisons des sorties hebdomadaires pour tous les niveaux et participons à des compétitions locales et régionales.
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
 github_username:  veloclubcirois
 
 # Build settings
 theme: minima
-remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-
-show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

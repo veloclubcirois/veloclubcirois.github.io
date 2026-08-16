@@ -4,3 +4,15 @@
 
 layout: default
 ---
+
+
+<p align="center">
+<img src="/assets/img/cires_les_mello.png" alt="Commune de Cires-lès-Mello" width="300" />
+<br>Commune de Cires-lès-Mello
+</p>
+
+
+<p align="center">
+<img src="/assets/img/logo-maxinfoweb.png" alt="MaxInfoWeb" width="300" />
+<br>MaxInfoWeb
+</p>

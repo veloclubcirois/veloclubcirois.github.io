@@ -21,6 +21,8 @@ title: Vélo Club Cirois
 # Your name to show in the footer
 author: Vélo Club Cirois
 
+language: fr-FR
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -29,7 +31,7 @@ navbar-links:
   Partenaires: "partenaires"
   Bureau: "bureau"
   Organisations: "organisations"
-  A propos: "about"
+  À propos: "about"
 
 ################
 # --- Logo --- #
@@ -176,13 +178,13 @@ footer-hover-col: "red"
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-3SE4G1S1NV"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-WXWSQ8J9"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
